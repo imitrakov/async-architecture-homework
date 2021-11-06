@@ -1,0 +1,19 @@
+{
+  "name": "async-architecture-homework",
+  "version": "1.0.0",
+  "description": "Домашка к курсу «Асинхронная архитектура» - https://education.borshev.com/architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imitrakov/async-architecture-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imitrakov/async-architecture-homework/issues"
+  },
+  "homepage": "https://github.com/imitrakov/async-architecture-homework#readme"
+}
